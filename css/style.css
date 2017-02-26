@@ -1,0 +1,8 @@
+.shadow-pic {box-shadow: 1px 5px 25px black; border-radius: 50%;}
+.background1 {background-image: url(../img/1.jpg);}
+.background2 {background-image: url(../img/2.jpg);}
+.fixed-back {background-attachment: fixed;}
+.footer-glyph-size {font-size: 50px !important;}
+.footer-link-color {color: white !important;}
+
+::-webkit-scrollbar {display: none;}
